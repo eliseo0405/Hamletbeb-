@@ -1,0 +1,81 @@
+C:\Users\Sistemas-11\Desktop\Prueba\Sistematico\Sistematico\bin\Debug\Sistematico.exe.config
+C:\Users\Sistemas-11\Desktop\Prueba\Sistematico\Sistematico\bin\Debug\Sistematico.exe
+C:\Users\Sistemas-11\Desktop\Prueba\Sistematico\Sistematico\bin\Debug\Sistematico.pdb
+C:\Users\Sistemas-11\Desktop\Prueba\Sistematico\Sistematico\obj\Debug\Sistematico.csprojAssemblyReference.cache
+C:\Users\Sistemas-11\Desktop\Prueba\Sistematico\Sistematico\obj\Debug\Sistematico.FrmMdi.resources
+C:\Users\Sistemas-11\Desktop\Prueba\Sistematico\Sistematico\obj\Debug\Sistematico.Properties.Resources.resources
+C:\Users\Sistemas-11\Desktop\Prueba\Sistematico\Sistematico\obj\Debug\Sistematico.csproj.GenerateResource.cache
+C:\Users\Sistemas-11\Desktop\Prueba\Sistematico\Sistematico\obj\Debug\Sistematico.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas-11\Desktop\Prueba\Sistematico\Sistematico\obj\Debug\Sistematico.exe
+C:\Users\Sistemas-11\Desktop\Prueba\Sistematico\Sistematico\obj\Debug\Sistematico.pdb
+C:\Users\Sistemas-11\Desktop\Prueba\Sistematico\Sistematico\obj\Debug\Sistematico.FrmCatalogo.resources
+C:\Users\Sistemas-11\Desktop\Prueba\Sistematico\Sistematico\obj\Debug\Sistematico.FrmProducto.resources
+C:\Users\Sistemas-11\Desktop\Prueba\Sistematico\Sistematico\obj\Debug\Sistematico.FrmView.resources
+C:\Users\rodri\OneDrive\Escritorio\prueba\Sistematico\Sistematico\bin\Debug\Sistematico.exe.config
+C:\Users\rodri\OneDrive\Escritorio\prueba\Sistematico\Sistematico\bin\Debug\Sistematico.exe
+C:\Users\rodri\OneDrive\Escritorio\prueba\Sistematico\Sistematico\bin\Debug\Sistematico.pdb
+C:\Users\rodri\OneDrive\Escritorio\prueba\Sistematico\Sistematico\obj\Debug\Sistematico.csprojAssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\prueba\Sistematico\Sistematico\obj\Debug\Sistematico.FrmCatalogo.resources
+C:\Users\rodri\OneDrive\Escritorio\prueba\Sistematico\Sistematico\obj\Debug\Sistematico.FrmMdi.resources
+C:\Users\rodri\OneDrive\Escritorio\prueba\Sistematico\Sistematico\obj\Debug\Sistematico.FrmProducto.resources
+C:\Users\rodri\OneDrive\Escritorio\prueba\Sistematico\Sistematico\obj\Debug\Sistematico.FrmView.resources
+C:\Users\rodri\OneDrive\Escritorio\prueba\Sistematico\Sistematico\obj\Debug\Sistematico.Properties.Resources.resources
+C:\Users\rodri\OneDrive\Escritorio\prueba\Sistematico\Sistematico\obj\Debug\Sistematico.csproj.GenerateResource.cache
+C:\Users\rodri\OneDrive\Escritorio\prueba\Sistematico\Sistematico\obj\Debug\Sistematico.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\prueba\Sistematico\Sistematico\obj\Debug\Sistematico.exe
+C:\Users\rodri\OneDrive\Escritorio\prueba\Sistematico\Sistematico\obj\Debug\Sistematico.pdb
+C:\Users\Usuario\Desktop\Evaluacion\Evaluacion\Sistematico\Sistematico\bin\Debug\Sistematico.exe.config
+C:\Users\Usuario\Desktop\Evaluacion\Evaluacion\Sistematico\Sistematico\bin\Debug\Sistematico.exe
+C:\Users\Usuario\Desktop\Evaluacion\Evaluacion\Sistematico\Sistematico\bin\Debug\Sistematico.pdb
+C:\Users\Usuario\Desktop\Evaluacion\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Evaluacion\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.FrmCatalogo.resources
+C:\Users\Usuario\Desktop\Evaluacion\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.FrmMdi.resources
+C:\Users\Usuario\Desktop\Evaluacion\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.FrmProducto.resources
+C:\Users\Usuario\Desktop\Evaluacion\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.FrmView.resources
+C:\Users\Usuario\Desktop\Evaluacion\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Evaluacion\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Evaluacion\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Evaluacion\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.exe
+C:\Users\Usuario\Desktop\Evaluacion\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.pdb
+C:\Users\rodri\OneDrive\Escritorio\prueba\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.csprojAssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\prueba\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.FrmCatalogo.resources
+C:\Users\rodri\OneDrive\Escritorio\prueba\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.FrmMdi.resources
+C:\Users\rodri\OneDrive\Escritorio\prueba\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.FrmProducto.resources
+C:\Users\rodri\OneDrive\Escritorio\prueba\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.FrmView.resources
+C:\Users\rodri\OneDrive\Escritorio\prueba\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.Properties.Resources.resources
+C:\Users\rodri\OneDrive\Escritorio\prueba\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.csproj.GenerateResource.cache
+C:\Users\rodri\OneDrive\Escritorio\prueba\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\prueba\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.exe
+C:\Users\rodri\OneDrive\Escritorio\prueba\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.pdb
+C:\Users\rodri\OneDrive\Escritorio\prueba\Evaluacion\Sistematico\Sistematico\bin\Debug\Sistematico.exe.config
+C:\Users\rodri\OneDrive\Escritorio\prueba\Evaluacion\Sistematico\Sistematico\bin\Debug\Sistematico.exe
+C:\Users\rodri\OneDrive\Escritorio\prueba\Evaluacion\Sistematico\Sistematico\bin\Debug\Sistematico.pdb
+C:\Users\rodri\OneDrive\Escritorio\prueba\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.ucProducto.resources
+C:\Users\Sistemas-12\Desktop\siste\Evaluacion\Sistematico\Sistematico\bin\Debug\Sistematico.exe.config
+C:\Users\Sistemas-12\Desktop\siste\Evaluacion\Sistematico\Sistematico\bin\Debug\Sistematico.exe
+C:\Users\Sistemas-12\Desktop\siste\Evaluacion\Sistematico\Sistematico\bin\Debug\Sistematico.pdb
+C:\Users\Sistemas-12\Desktop\siste\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.csprojAssemblyReference.cache
+C:\Users\Sistemas-12\Desktop\siste\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.FrmCatalogo.resources
+C:\Users\Sistemas-12\Desktop\siste\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.FrmMdi.resources
+C:\Users\Sistemas-12\Desktop\siste\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.FrmProducto.resources
+C:\Users\Sistemas-12\Desktop\siste\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.FrmView.resources
+C:\Users\Sistemas-12\Desktop\siste\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.Properties.Resources.resources
+C:\Users\Sistemas-12\Desktop\siste\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.ucProducto.resources
+C:\Users\Sistemas-12\Desktop\siste\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.csproj.GenerateResource.cache
+C:\Users\Sistemas-12\Desktop\siste\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas-12\Desktop\siste\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.exe
+C:\Users\Sistemas-12\Desktop\siste\Evaluacion\Sistematico\Sistematico\obj\Debug\Sistematico.pdb
+C:\Users\Usos Multiples 04\Desktop\Nueva carpeta\Sistematico\Sistematico\bin\Debug\Sistematico.exe.config
+C:\Users\Usos Multiples 04\Desktop\Nueva carpeta\Sistematico\Sistematico\bin\Debug\Sistematico.exe
+C:\Users\Usos Multiples 04\Desktop\Nueva carpeta\Sistematico\Sistematico\bin\Debug\Sistematico.pdb
+C:\Users\Usos Multiples 04\Desktop\Nueva carpeta\Sistematico\Sistematico\obj\Debug\Sistematico.csprojAssemblyReference.cache
+C:\Users\Usos Multiples 04\Desktop\Nueva carpeta\Sistematico\Sistematico\obj\Debug\Sistematico.FrmCatalogo.resources
+C:\Users\Usos Multiples 04\Desktop\Nueva carpeta\Sistematico\Sistematico\obj\Debug\Sistematico.FrmMdi.resources
+C:\Users\Usos Multiples 04\Desktop\Nueva carpeta\Sistematico\Sistematico\obj\Debug\Sistematico.FrmProducto.resources
+C:\Users\Usos Multiples 04\Desktop\Nueva carpeta\Sistematico\Sistematico\obj\Debug\Sistematico.FrmView.resources
+C:\Users\Usos Multiples 04\Desktop\Nueva carpeta\Sistematico\Sistematico\obj\Debug\Sistematico.Properties.Resources.resources
+C:\Users\Usos Multiples 04\Desktop\Nueva carpeta\Sistematico\Sistematico\obj\Debug\Sistematico.ucProducto.resources
+C:\Users\Usos Multiples 04\Desktop\Nueva carpeta\Sistematico\Sistematico\obj\Debug\Sistematico.csproj.GenerateResource.cache
+C:\Users\Usos Multiples 04\Desktop\Nueva carpeta\Sistematico\Sistematico\obj\Debug\Sistematico.csproj.CoreCompileInputs.cache
+C:\Users\Usos Multiples 04\Desktop\Nueva carpeta\Sistematico\Sistematico\obj\Debug\Sistematico.exe
+C:\Users\Usos Multiples 04\Desktop\Nueva carpeta\Sistematico\Sistematico\obj\Debug\Sistematico.pdb
